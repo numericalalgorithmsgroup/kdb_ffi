@@ -1,4 +1,4 @@
-# Using the NAG Library With Kdb+ in a Pure Q Environment
+# Using the NAG Library with Kdb+ in a Pure Q Environment
 
 This repository contains the example scripts to accompany the NAG Technical Report with the above title.  Included are three sets of q scripts, each compatible with a separate implementation of the Mark 26.2 release of the NAG C Library:
 *	64-bit Linux with 32-bit Integers (product code: CLL6I262CL)
