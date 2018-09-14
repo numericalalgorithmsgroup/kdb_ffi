@@ -11,7 +11,7 @@ These example scripts require the following software to be installed:
 * kdb+ 3.4 or higher (http://www.kx.com) 
 * Foreign Function Inteface (FFI) (https://code.kx.com/q/interfaces/ffi/) 
 * libffi 3.1 or higher (as per FFI documentation)
-* NAG C Library Mark 26.2 (http://www.nag.com) 
+* NAG C Library Mark 26.2 or higher (http://www.nag.com) 
 
 ## Examples
 
